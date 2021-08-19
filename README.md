@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img title="FROM INDIA" src="https://www.canva.com/design/DAEnk6htdD4/yiSz0L0T8ORR2CrnTJht8A/view"></a>
+<a href="#"><img title="FROM INDIA" src="https://www.canva.com/design/DAEnk6htdD4/yiSz0L0T8ORR2CrnTJht8A"></a>
 </p>
 <h1 align="center">Hi 👋, I'm MOX RATHORE</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moxrathore" alt="moxrathore"/></p>
