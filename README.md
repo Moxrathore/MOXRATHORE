@@ -2,7 +2,7 @@
 <a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
 </p>
 <h1 align="center">Hi 👋, I'm MOX RATHORE</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ritikts" alt="moxrathore"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=moxrathore" alt="moxrathore"/></p>
 
 
 - 🔭 I’m currently working on **My Personal Project.**
